@@ -1,5 +1,5 @@
 # Exercício
-Um pequeno projeto em NodeJs que cobre as funções mais fundamentais da tecnologia, tais como:
+Segundo projeto da lista de desafios da [Rocketseat](https://github.com/rocketseat-education/bootcamp-gostack-desafios), em NodeJs que cobre as funções mais fundamentais da tecnologia, tais como:
   - Receber e lidar com requisições;
   - Uso de middleware;
   - Geração de um ID único universal.
